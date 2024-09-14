@@ -1,0 +1,9 @@
+[package]
+name = "k8s-nats-bridge"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/imp/k8s-nats-bridge-rs"
+description = "K8s to NATS bridge"
+
+
+[dependencies]
